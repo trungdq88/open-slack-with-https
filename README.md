@@ -14,4 +14,4 @@ Replace `slack://` with `https://trungdq88.github.io/open-slack-with-https/#`
 
 `https://trungdq88.github.io/open-slack-with-https/#user?team=T0251Q68K&id=U0BCP25KN`
 
-## [Try it!](https://trungdq88.github.io/open-slack-with-https/#open)
+### [Try it!](https://trungdq88.github.io/open-slack-with-https/#open) `--> https://trungdq88.github.io/open-slack-with-https/#open`
