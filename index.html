@@ -1,0 +1,7 @@
+<div style="display: flex; align-items: center; justify-content: center; height: 100vh">
+  <a id="link" href="slack://open">Opening your Slack...</a>
+</div>
+<script>
+link.setAttribute('href', 'slack://' + location.hash.replace('#', ''));
+link.click();
+</script>
