@@ -3,7 +3,7 @@ Google Slide do not allow me to add slack:// links, so I created this
 
 # Why?
 
-`slack://` is awesome but not is supported everywhere.
+[`slack://`](https://api.slack.com/docs/deep-linking) is awesome but not is supported everywhere.
 
 # Usage
 Replace `slack://` with `https://trungdq88.github.io/open-slack-with-https/#`
